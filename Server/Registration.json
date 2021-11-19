@@ -1,0 +1,27 @@
+{
+  "Registration": [
+    {
+      "id": 1,
+      "name": "Ajay",
+      "lname": "v s",
+      "uname": "jayvs",
+      "password": 12345678
+    },
+    {
+      "name": "Ajay V S",
+      "lname": "as",
+      "uname": "ssss",
+      "email": "sriaj711@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "Ajay V S",
+      "lname": " V S",
+      "uname": "ssss",
+      "email": "msvinay@gmail.com",
+      "password": "12345678",
+      "id": 3
+    }
+  ]
+}
